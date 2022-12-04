@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexKentXIII
 - 👀 I’m interested in Python, OOP, Django, PostgreSQL
-- 🌱 I’m currently learning PostgreSQL
-- 💞️ I’m looking to collaborate on Jobs associated with Python (Belarus, remote or relocate)
+- 🌱 I’m currently learning Django-framework
+- 💞️ I’m looking to collaborate on Jobs associated with Python (in Belarus or remote or relocate)
 - 📫 How to reach me https://www.linkedin.com/in/alexei-koroljow-1666b1247/
 
 <!---
